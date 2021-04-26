@@ -1,7 +1,6 @@
 D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\SamuraiGirl\Containers\Container_NPCSamuraiGirl.json
 D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\SamuraiGirl\Creatures\Creature_SamuraiGirl.json
 D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\SamuraiGirl\Items\Item_Avatar_SamuraiGirl.json
-D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\SamuraiGirl\Items\Item_Equipment_SamuraiGirlEquipment.json
 D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\SamuraiGirl\Items\Item_Wardrobe_ApparelSamuraiGirl.json
 D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\SamuraiGirl\manifest.json
 D:\Steam\steamapps\common\Blade & Sorcery\BladeAndSorcery_Data\StreamingAssets\Mods\SamuraiGirl\Waves\Wave_SamuraiGirls1.json

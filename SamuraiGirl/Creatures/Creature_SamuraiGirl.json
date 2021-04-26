@@ -25,8 +25,8 @@
   "avoidancePriority": 10,
   "openHandPoseId": "DefaultOpen",
   "closeHandPoseId": "DefaultClose",
-  "randomMinHeight": 1.7,
-  "randomMaxHeight": 1.7,
+  "randomMinHeight": 1.8,
+  "randomMaxHeight": 1.8,
   "possesionScaling": "ScaleCreature",
   "hairColors": [
     {

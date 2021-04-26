@@ -43,14 +43,13 @@
     {
       "$type": "CustomAvatarFramework.ItemModuleAvatar, CustomAvatarFramework",
       "avatarItemId": "SamuraiGirl",
-      "avatarHeight": 1.835,
+      "avatarHeight": 1.9,
       "playerScaleRatio": 1.0,
       "npcScaleRatio": 1.0,
       "positionMatchingExemptionBoneNames": [
         "RightLeg_Mesh",
         "RightUpLeg_Mesh",
         "RightFoot_Mesh",
-        "Hips_Mesh",
         "LeftLeg_Mesh",
         "LeftUpLeg_Mesh",
         "LeftFoot_Mesh",
