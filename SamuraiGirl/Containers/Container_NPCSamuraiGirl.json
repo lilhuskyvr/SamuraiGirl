@@ -1,0 +1,25 @@
+{
+  "$type": "ThunderRoad.ContainerData, Assembly-CSharp",
+  "id": "NPCSamuraiGirl",
+  "saveFolder": "Bas",
+  "version": 1,
+  "displayName": "",
+  "description": null,
+  "contents": [
+    {
+      "referenceID": "ApparelSamuraiGirl",
+      "reference": "Item",
+      "customValues": []
+    },
+    {
+      "referenceID": "WeaponSword",
+      "reference": "Table",
+      "customValues": [
+        {
+          "id": "Holder",
+          "value": "BackRight"
+        }
+      ]
+    }
+  ]
+}
